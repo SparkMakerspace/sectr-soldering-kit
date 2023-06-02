@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ss12d07vg")(type "KiCad")(uri "${KIPRJMOD}/ss12d07vg.pretty")(options "")(descr ""))
+  (lib (name "BAT-HLD-001-THM-TR")(type "KiCad")(uri "${KIPRJMOD}/BAT-HLD-001-THM-TR")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "sectr vector squares")(type KiCad)(uri "$(KIPRJMOD)/sectr vector squares.pretty")(options "")(descr ""))
+)
